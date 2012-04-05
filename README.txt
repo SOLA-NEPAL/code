@@ -1,4 +1,4 @@
-Solutions for Open Land Administration (SOLA) is an open source
+Solutions for Open Land Administration (SOLA) is an open source Im in master.
 software system that aims to make computerised cadastre and
 registration systems more affordable and more sustainable in developing
 countries. For more information refer to www.flossola.org. 
