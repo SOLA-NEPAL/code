@@ -75,3 +75,4 @@ The Git Slave home page is http://gitslave.sourceforge.net/. The version
 currently used by SOLA is 2.0.2. 
 			   
 			  
+-----------
